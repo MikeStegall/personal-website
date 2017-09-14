@@ -1,5 +1,16 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+# Micheal E. Stegall
+## [mestegall5@gmail.com](mailto:mestegall5@gmail.com)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## 806.584.4090
 
-## Preview
+# Portfolio website.
+## [www.mikestegall.com](http://mikestegall.com/)
+
+> This responsive website is to display my completed projects. It is built with:
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+![img](./img//resume.png)
