@@ -101,7 +101,8 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #424242; }
+  color: #0e68ce;
+  font-weight: bold;}
 
 .ecr h2 {
   font-size: 14px; }
