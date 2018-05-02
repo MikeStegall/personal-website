@@ -50,7 +50,7 @@ h2 {
   .profile-contact .profile, .profile-contact .contact {
     width: 50%; }
   .profile-contact p {
-    /*text-align: right;*/
+    text-align: center;
     font-size: 12px;
     margin: 4px 0; }
   .profile-contact .profile {
