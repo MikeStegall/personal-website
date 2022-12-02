@@ -78,7 +78,8 @@ h2 {
 .work-history h5 {
   margin-top: 8px; }
 .work-history h6 {
-  text-align: justify; }
+  text-align: justify; 
+  font-size: .75em;}
 
 .education {
   display: flex;
@@ -106,11 +107,13 @@ a {
 
 .ecr h2 {
   font-size: 14px; }
-.ecr h5 {
-  font-size: .75em; }
+.ecr .work-history h5 {
+  font-size: .85em; }
 .ecr .profile-contact p {
   font-size: .67em;
   margin: 1px 0; }
+.ecr .education h5 {
+  font-size: .75em; }
 .ecr .footer {
   margin-top: 10px; }
   .ecr .footer h5 {
