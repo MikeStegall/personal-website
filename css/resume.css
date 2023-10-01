@@ -82,12 +82,13 @@ h2 {
   font-size: .75em;}
 
 .education {
-  display: flex;
+  /* display: flex; */
   justify-content: space-around;
-  flex-direction: row;
+  /* flex-direction: row; */
   text-align: right; }
-  .education .column {
-    width: 35%; }
+  .education ul {
+    text-align: justify;
+    font-size: .8em; }
 
 .column {
   list-style: none; }
